@@ -1,0 +1,23 @@
+/*login page*/
+.custom-footer {
+  color: #869099;
+  position:auto;
+  bottom: 0;
+  padding: 10px 10px 0px 10px;
+  width: 100%;
+  height: 40px;
+  text-align: center;
+}
+
+.card a:link, a:visited {
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.card a:hover, a:active {
+  background-color: skyblue;
+}
+
